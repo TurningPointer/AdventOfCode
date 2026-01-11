@@ -1,3 +1,2 @@
 # AdventOfCode
-Hello world! This is my first repository 
-Here I will be uploading my codes
+Hello world! This is my first year of solving AdventOfCode
